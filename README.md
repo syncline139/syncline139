@@ -1,3 +1,7 @@
+![githubprofile](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
+
+
+
 <h2 align="center">🛠 My Fancy Badge Area</h2>
 
 <p align="left">
