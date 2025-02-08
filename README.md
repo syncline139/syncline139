@@ -14,6 +14,11 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">⚡ Stats ⚡</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Luntik-0&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
