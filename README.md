@@ -1,13 +1,13 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp0Zzl6MGswcG1pMWtncWVtMmE4ZGE1YXhtN25rMDMxNDA5NHlpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif"  />
 </div>
 
 
 
 <div align="center">
-
+<br/>
   <a href="https://t.me/syncIine" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
